@@ -1,3 +1,9 @@
+# Project One - React.js
+
+## The Venue
+
+Example is hosted on [Netlify](https://unruffled-liskov-6477b9.netlify.com/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
